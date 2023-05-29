@@ -18,7 +18,8 @@
                 navMenu:[
                     { path:"/", section: "Home" },
                     { path:"/about", section: "About" },
-                    { path:"/info", section: "Info" }
+                    { path:"/info", section: "Info" },
+                    { path:"/charts", section: "Charts" }
                 ]
             }
 
